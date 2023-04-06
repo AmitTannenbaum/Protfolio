@@ -23,3 +23,13 @@ A collection of data analysis projects showcasing my skills in data cleaning, st
   </object>
 </div>
 
+if ( divElement.offsetWidth > 800 ) {
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+} else if ( divElement.offsetWidth > 500 ) {
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+} else {
+  vizElement.style.width='100%';
+  vizElement.style.height='1277px';
+}
