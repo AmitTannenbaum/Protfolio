@@ -20,10 +20,7 @@ A collection of data analysis projects showcasing my skills in data cleaning, st
     <param name='display_overlay' value='yes' />
     <param name='display_count' value='yes' />
     <param name='language' value='en-US' />
-  </object>
-</div>
-
-if ( divElement.offsetWidth > 800 ) {
+    if ( divElement.offsetWidth > 800 ) {
   vizElement.style.width='100%';
   vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
 } else if ( divElement.offsetWidth > 500 ) {
@@ -33,3 +30,7 @@ if ( divElement.offsetWidth > 800 ) {
   vizElement.style.width='100%';
   vizElement.style.height='1277px';
 }
+  </object>
+</div>
+
+
