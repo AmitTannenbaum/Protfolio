@@ -36,6 +36,15 @@ Welcome to my portfolio! I build end-to-end AI, data, and automation systems tha
 - Advanced analytics dashboards and decision-support systems
 - Real-estate data tools for investors
 
+## Programs
+
+### [Analyst Mentoring Program](./programs/analyst-mentoring/)
+A hands-on, 8–10 week mentoring program for aspiring analysts. Not a course — a real-world work simulation with briefs, stakeholders, deliverables, and interview prep. Designed to get you hired.
+
+**Includes**: CV & LinkedIn optimization, portfolio projects (SQL, dashboards, storytelling), interview simulations, and job search strategy.
+
+---
+
 ## Projects
 
 ### 1. [Vehicle Health Management System](./projects/vehicle-health-management-system/)
@@ -56,6 +65,9 @@ A comprehensive analysis of vehicle health data with interactive Tableau dashboa
 ## Repository Structure
 ```
 Portfolio/
+├── programs/                          # Mentoring & coaching programs
+│   └── analyst-mentoring/
+│       └── README.md                  # Analyst Mentoring Program
 ├── projects/                          # Individual project folders
 │   └── vehicle-health-management-system/
 │       ├── README.md                  # Project documentation
