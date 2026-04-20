@@ -25,6 +25,8 @@ Welcome to my portfolio! I build end-to-end AI, data, and automation systems tha
 
 **Languages**: Python, SQL, JavaScript
 
+**UI/UX**: Figma, responsive design, wireframing, prototyping, user research, design systems
+
 **Other**: Cloudinary, GCS, video processing, Supabase, Airflow, Jupyter Notebook
 
 ## 🚀 Things I Build
